@@ -1,0 +1,5 @@
+
+Boiler Control Arduino.
+
+Estoy replicando el mismo proyecto de Boiler Control Micropython la diferencia será el hardeware.
+En escencia es el mismo core ESP32 pero de fabricantes diferentes.
